@@ -1,3 +1,3 @@
 spring:
-    config: test2.com
+    config: test3.com
     port: 1000
